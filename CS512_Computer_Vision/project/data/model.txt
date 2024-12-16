@@ -1,0 +1,4 @@
+https://docs.google.com/uc?export=download&id=12UtMip8PLZJgf_x0EU26cyU7CcQryEi-
+
+Inside the Logs folder, there are two subfolders: MNIST_KD and CIFAR10_KD, which contain the training results and saved models generated through the run.sh script. 
+For each episode, the models are saved as teacher_episode_1.pth to teacher_episode_5.pth.

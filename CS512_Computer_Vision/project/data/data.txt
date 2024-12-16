@@ -1,0 +1,1 @@
+If you execute run.sh, the MNIST and CIFAR-10 datasets will be created in the ../Datasets folder.
