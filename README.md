@@ -1,8 +1,9 @@
-# Seonghwan's Portfolio: CS401 & CS512 Projects
+# Seonghwan's Project Portfolio
 
 Hello! My name is **Seonghwan Lim**, and I am currently pursuing a **Master of Science in Computer Science** at the **Illinois Institute of Technology**. I am deeply passionate about **computer vision**, **deep learning**, and **artificial intelligence (AI)**. This portfolio highlights my academic journey and technical projects from 
 - **CS401: Introduction to Advanced Studies I**
 - **CS512: Computer Vision**
+
 Through these projects, I have demonstrated my proficiency in **data structures**, **algorithms**, **object-oriented programming**, and **state-of-the-art AI techniques**. I invite you to explore my work and learn more about my technical skills and problem-solving abilities.
 
 ---
