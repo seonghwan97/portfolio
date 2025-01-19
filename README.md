@@ -1,125 +1,128 @@
-# Seonghwan's Project Portfolio
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-Hello! My name is **Seonghwan Lim**, and I am currently pursuing a **Master of Science in Computer Science** at the **Illinois Institute of Technology**. I am deeply passionate about **computer vision**, **deep learning**, and **artificial intelligence (AI)**. This portfolio highlights my academic journey and technical projects from 
-- **CS401: Introduction to Advanced Studies I**
-- **CS512: Computer Vision**
+  <!-- Banner -->
+  <div style="flex: 2; min-width: 1000px; padding-left: 20px; padding-right: 20px; padding: 20px; text-align: left;">
+    <h1 style="margin: 10px 0;">Seonghwan Lim</h1>
+    <p style="color: #666; margin-top: -20px; margin-bottom: 20px;">
+      <a href="https://www.iit.edu/computer-science" 
+         target="_blank" 
+         style="text-decoration: none; color: #666;">
+         Computer Science, 
+      </a>
+      <a href="https://www.iit.edu/" 
+         target="_blank" 
+         style="text-decoration: none; color: #666;">
+         Illinois Institute of Technology
+      </a>
+    </p>
+  </div>
 
-Through these projects, I have demonstrated my proficiency in **data structures**, **algorithms**, **object-oriented programming**, and **state-of-the-art AI techniques**. I invite you to explore my work and learn more about my technical skills and problem-solving abilities.
+  <!-- Main Content -->
+  <div style="flex: 2; max-width: 800px; margin: 0 auto; padding-left: 20px; line-height: 1.6;">
+    <p>
+      I am a <strong>Master of Science in Computer Science</strong> student at the 
+      <strong>Illinois Institute of Technology</strong> with a deep passion for 
+      <strong>computer vision</strong>, <strong>deep learning</strong>, and <strong>AI-driven innovation</strong>. 
+      I specialize in designing and fine-tuning neural network architectures, implementing 
+      advanced machine learning algorithms, and applying feature extraction techniques to address 
+      real-world challenges.
+    </p>
+    <p>
+      I am proficient in <strong>PyTorch</strong> and <strong>TensorFlow</strong>, leveraging these frameworks 
+      to develop and optimize high-performance models that deliver tangible results. My portfolio includes 
+      projects like the <strong>Logistics Smart Inspection System</strong>, where I integrated state-of-the-art 
+      object detection to automate product inspections and improve efficiency; the 
+      <strong>Marionette Motion Control System</strong>, merging motion tracking and real-time motor control; 
+      and <strong>Incremental Learning Enhancements</strong>, highlighting my experience in knowledge 
+      distillation and model optimization.
+    </p>
+    <p>
+      With a focus on clean, maintainable code and a results-driven mindset, I strive to develop solutions that 
+      are both innovative and robust for real-world deployment. Whether fine-tuning a convolutional neural network 
+      for higher accuracy or architecting end-to-end computer vision pipelines, I am committed to 
+      <strong>continuous learning</strong>, <strong>collaborative problem-solving</strong>, and 
+      <strong>making a meaningful impact</strong> in every project.
+    </p>
+    <h2>Key Projects</h2>
+    <div style="display: flex; flex-direction: column; gap: 20px;">
+      <!-- Project 1 -->
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="flex: 0 0 100px; font-weight: bold; color: #666;">Oct - Nov 2024</div>
+        <div style="flex: 1;">
+          <strong>
+            <a href="https://github.com/seonghwan97/NICE-with-KD.git" target="_blank" style="text-decoration: none;">
+              NICE with Knowledge Distillation
+            </a>:
+          </strong>
+          Enhanced class incremental learning by incorporating Knowledge Distillation (KD), boosting accuracy 
+          from 39% to 49% on CIFAR-10 and from 44% to 59% on MNIST. Leveraged teacher-student learning approaches 
+          and dynamic neuron management strategies to mitigate catastrophic forgetting.
+        </div>
+      </div>
+      <!-- Project 2 -->
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="flex: 0 0 100px; font-weight: bold; color: #666;">Oct - Nov 2024</div>
+        <div style="flex: 1;">
+          <strong>
+            <a href="https://github.com/seonghwan97/Data-Structure-Performance-Analysis.git" target="_blank" style="text-decoration: none;">
+              Data Structures Performance Analysis
+            </a>:
+          </strong>
+          Implemented and analyzed core data structures—including arrays, linked lists, and binary search 
+          trees—and developed a GUI to visualize performance. Showcased algorithm optimization in Java for 
+          efficient employee data management.
+        </div>
+      </div>
+      <!-- Project 3 -->
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="flex: 0 0 100px; font-weight: bold; color: #666;">May - Sep 2023</div>
+        <div style="flex: 1;">
+          <strong>CJ Logistics Smart Inspection System:</strong> Led a team to secure First Prize among 271 teams 
+          by developing an object detection model using YOLOv5 and DINO, achieving a 7.5% increase in accuracy. 
+          Automated product inspection in logistics centers, significantly reducing manual effort.
+        </div>
+      </div>
+      <!-- Project 4 -->
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="flex: 0 0 100px; font-weight: bold; color: #666;">Jan - Dec 2022</div>
+        <div style="flex: 1;">
+          <strong>Marionette Motion Control System:</strong> Developed a real-time puppet motion system with 
+          Kinect v1 for motion tracking, integrating motor control for precise human-to-puppet movement 
+          replication and gesture recognition.
+        </div>
+      </div>
+    </div>
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Programming Languages:</strong> Python, Java, C/C++, SQL</li>
+      <li><strong>Frameworks and Tools:</strong> PyTorch, TensorFlow, OpenCV, Scikit-Learn, Keras</li>
+      <li><strong>Technologies:</strong> Machine Learning, Knowledge Distillation, Computer Vision, Data Analysis</li>
+      <li><strong>Others:</strong> Linux (Ubuntu), Git, MS Office</li>
+    </ul>
+  </div>
 
----
+  <!-- Sidebar -->
+  <div style="flex: 1; min-width: 200px; text-align: left; padding-right: 20px;">
+    <img src="./images/headshot.png" alt="Headshot" 
+         style="width: 100%; max-width: 300px; border-radius: 5%; margin-bottom: 10px;">
+    <!-- Social icons in one line -->
+    <div style="display: flex; align-items: center; gap: 10px; margin-top: -10px;">
+      <!-- Email icon -->
+      <a href="mailto:slim24@hawk.iit.edu" 
+         style="display: inline-block; text-decoration: none; color: #333;">
+        <img src="./images/email.png" alt="Email" style="width: 50px; height: 50px;">
+      </a>
+      <!-- LinkedIn icon -->
+      <a href="https://www.linkedin.com/in/slim-97-kr" target="_blank" 
+         style="display: inline-block; text-decoration: none; color: #333;">
+        <img src="./images/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
+      </a>
+      <!-- GitHub icon -->
+      <a href="https://github.com/seonghwan97" target="_blank" 
+         style="display: inline-block; text-decoration: none; color: #333;">
+        <img src="./images/git.png" alt="GitHub" style="width: 50px; height: 50px;">
+      </a>
+    </div>
+  </div>
 
-## 📘 **CS401: Introduction to Advanced Studies I**
-
-This course focused on mastering core concepts in **Java programming**, **data structures**, and **algorithms**. Key topics include linked lists, binary search trees, and sorting algorithms. The projects emphasize conceptual understanding, practical application, and efficient algorithm design.
-
-### 🔹 **Project: Data Structures GUI Application**
-**Objective:** Develop an interactive application that visualizes and manages data structures, allowing users to load, visualize, and manipulate employee data.
-
-**Key Features:**
-- **Data Structures Implemented:** Unsorted Array, Sorted Array, Unsorted Linked List, Sorted Linked List, and Binary Search Tree (BST).
-- **Data Operations:** Add, Remove, Contains, and Visualization of Data Structures.
-- **Performance Analysis:** Compare performance metrics (like search comparisons) across different data structures.
-- **Interactive GUI:** Visualize how data is stored and managed, with options to view sorted arrays, linked lists, and a balanced BST.
-
-**Technologies Used:**
-- **Programming Language:** Java
-- **GUI:** Java Swing
-- **Data Analysis:** Performance comparison of data structures
-
-**Skills Demonstrated:**
-- Implemented core data structures (Arrays, Linked Lists, and BSTs) from scratch.
-- Designed an interactive GUI for user-friendly visualization and analysis.
-- Applied sorting algorithms like Quick Sort and search techniques like Binary Search.
-- Measured and compared computational performance of data structures.
-
-**How to Run:**
-1. Run the `Main.jar` file from the command line using:
-   ```
-   java -jar Main.jar
-   ```
-2. Use the GUI to **Load CSV Files**, **Create Data Structures**, and **View Performance Analysis**.
-
-**Documentation:** The detailed technical documentation for this project is available at:
-```
-CS401_Introduction_to_Advanced_Studies_I/final_project/documentation.pdf
-```
-
----
-
-## 📘 **CS512: Computer Vision**
-
-This course focused on advanced concepts in **image processing**, **deep learning for vision**, and **neural network architectures**. Key projects include the implementation of **image filtering**, **object detection**, and **vision transformer models (ViT)**. The final project explored innovative techniques for incremental learning using **NICE with Knowledge Distillation**.
-
-### 🔹 **Project: Enhancing the Neurogenesis-Inspired NICE Method with Knowledge Distillation**
-**Objective:** Improve the adaptability and performance of the NICE method for class-incremental learning using **Knowledge Distillation (KD)**.
-
-**Problem Statement:**
-Traditional class-incremental learning models suffer from **catastrophic forgetting**, where learning new classes erases knowledge of previous classes. The NICE model mitigates this by freezing neurons after specific age thresholds. However, frozen neurons reduce flexibility, and essential context information is sometimes lost during neuron transitions.
-
-**Proposed Solution:**
-Incorporate **Knowledge Distillation (KD)** into the NICE framework to transfer knowledge from a "teacher" model to a "student" model during class-incremental learning. This approach preserves **inter-class relationships** and **reduces neuron ambiguity** during early training.
-
-**Key Features:**
-- **Teacher-Student Training:** Use a previously trained model (teacher) to guide the activations of a new model (student) as it learns new tasks.
-- **Knowledge Transfer:** Align the student’s output to the teacher’s output using soft labels, preserving inter-class relationships.
-- **Memory Efficiency:** Maintain prior knowledge of earlier classes without requiring replay-based memory storage.
-- **Layer-Specific KD Loss:** Apply layer-wise distillation loss, allowing fine-grained control over neuron activation alignment.
-
-**Technologies Used:**
-- **Programming Language:** Python
-- **Frameworks:** PyTorch, NumPy, OpenCV
-- **Neural Networks:** CNNs, VGG
-
-**Skills Demonstrated:**
-- Implemented knowledge distillation for neural networks.
-- Modified PyTorch models to integrate KD loss for better generalization.
-- Improved the **NICE** model by preserving class knowledge across incremental tasks.
-- Evaluated performance on CIFAR-10 and MNIST datasets, demonstrating improved task retention.
-
-**How to Run:**
-1. Install necessary libraries from the `requirements.txt` file.
-2. Run the training script using:
-   ```
-   bash run.sh
-   ```
-3. View the results, which include:
-   - Performance on MNIST and CIFAR-10 datasets.
-   - Accuracy comparisons of NICE vs. NICE + KD.
-   - Feature visualizations for context and layer occupancy.
-
-**Documentation:** The detailed technical documentation for this project is available at:
-```
-CS512_Computer_Vision/project/doc/report.pdf
-```
-
----
-
-## 🔎 **Skills Highlighted in this Portfolio**
-
-- **Software Development:** Implemented complex data structures from scratch (Arrays, Linked Lists, Binary Search Trees) and designed interactive GUIs using **Java Swing**.
-- **Object-Oriented Programming (OOP):** Applied OOP principles for reusability, modularity, and scalability in software design.
-- **Data Structures & Algorithms:** Implemented sorting (Quick Sort, Selection Sort) and search algorithms (Binary Search) to improve computational efficiency.
-- **Computer Vision:** Mastered image processing techniques using **OpenCV** for **image transformation** and **filtering**.
-- **Deep Learning & Neural Networks:** Worked with state-of-the-art **Vision Transformers (ViT)** and mastered **ResNet** and **VGG** for robust classification and detection tasks.
-- **Incremental Learning & Knowledge Distillation:** Enhanced the NICE method for class-incremental learning by integrating **Knowledge Distillation**, enabling better retention of prior knowledge.
-
----
-
-## 🗂 **How to Use This Repository**
-
-The repository is organized into two main folders:
-
-- **`CS401_Projects/`**: Contains all projects and assignments related to **CS401: Introduction to Advanced Studies I**.
-  - **Data Structures GUI**: Interactive tool to visualize and compare data structures (arrays, linked lists, and BSTs).
-  - **Assignments**: Lab assignments for sorting, searching, and linked list operations.
-
-- **`CS512_Projects/`**: Contains assignments and the final project for **CS512: Computer Vision**.
-  - **Assignments**: Key assignments on image processing (image filters, semantic segmentation, ViT models).
-  - **Final Project**: Project on **NICE with Knowledge Distillation**, which improves the ability of incremental learning models to retain prior knowledge.
-
----
-
-## 💎 **Contact Information**
-
-For inquiries about this portfolio or to discuss potential opportunities, please contact Seonghwan via email at **slim24@hawk.iit.edu**.
-
+</div>
