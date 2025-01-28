@@ -17,7 +17,6 @@ I’m particularly fascinated by the potential of computer vision to revolutioni
 
 Beyond the technical side, I thrive on tackling real-world challenges through hands-on projects and interdisciplinary collaboration. I aim to develop robust, scalable solutions that bridge the gap between cutting-edge research and actual deployment. Combining my curiosity for diverse technologies with my passion for high-impact innovation, I aim to contribute to a future where computer vision transforms how we work, learn, and explore the world around us.
 
-
 ## Projects
 
 ### Human Activity Inference in Mixed Reality
@@ -74,6 +73,12 @@ Beyond the technical side, I thrive on tackling real-world challenges through ha
 **Duration:** Mar – Jun 2023  
 - Graded assignments and supervised exams for the Software Programming course, upholding academic standards and integrity.  
 - Addressed student inquiries about C/C++ with in-depth guidance, fostering a supportive and engaging learning environment.
+
+### Research Assistance
+**Location:** Seoul National University of Science and Technology  
+**Duration:** Jan – Dec 2023  
+- Collaborated with a faculty member and two researchers to develop object detection and incremental learning tasks, leveraging architectures such as ResNet, YOLO, and ViT.  
+- Communicated technical findings effectively with peers and advisors, contributing to technical reports and documentation.
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL  
