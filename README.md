@@ -11,26 +11,35 @@
   <img src="headshot.png" alt="Headshot" style="width: 400px;">
 </div>
 
-**Hi everyone!** I’m a highly motivated **master’s student in Computer Science** with a strong background in **computer vision** and **machine learning**. My passion lies in designing and fine-tuning neural network architectures, implementing advanced machine learning algorithms, and applying feature extraction techniques to solve real-world challenges. I’m eager to leverage my expertise in **PyTorch** and **TensorFlow** to drive innovation in computer vision and data analysis, and I can’t wait to share my work and collaborate with others who are just as excited about AI as I am.
+**Hi everyone!** I’m a master’s student in Computer Science with a **deep passion for computer vision and machine learning**. I love designing and fine-tuning neural network architectures, implementing advanced algorithms, and applying feature extraction techniques to solve practical challenges. My core interest is leveraging computer vision across diverse fields—logistics, bioengineering, human performance analysis, or aviation—to create high-impact solutions that genuinely make a difference.
 
-I’m particularly fascinated by the potential of computer vision to revolutionize industries, from automating inspections and detecting anomalies to supporting medical diagnostics and enhancing mixed reality experiences. I love experimenting with different architectures—refining a convolutional network for object detection or integrating multi-modal data like depth, EEG, or sensor input to build truly immersive solutions.
+In the logistics sector, I created an **object detection** program that leverages complex neural network architectures to precisely identify which items are being stored, enabling more efficient inventory management. In one bioengineering lab, I focus on **real-time microfluid mixing detection** and control to ensure optimal flow conditions. Meanwhile, in the other group, I’m a research co-pilot exploring **CT and MRI imaging for organ segmentation**.
 
-Beyond the technical side, I thrive on tackling real-world challenges through hands-on projects and interdisciplinary collaboration. I aim to develop robust, scalable solutions that bridge the gap between cutting-edge research and actual deployment. Combining my curiosity for diverse technologies with my passion for high-impact innovation, I aim to contribute to a future where computer vision transforms how we work, learn, and explore the world around us.
+My interests also extend to analyzing **3D human pose** data to evaluate performance and energy usage—insights that could transform how we train athletes, improve workplace ergonomics, and more. Additionally, I’m engaged in a **drone-based 3D scanning** project for aircraft structural inspections, where automated and accurate defect detection can save time, cost, and potentially lives.
 
 ## Projects
 
+### Drone Mounted with 3D Surface Scanner for Aircraft Structural Inspections
+**Duration:** Feb 2025 – Present  
+- Integrated five camera feeds using Python-based algorithms and MediaPipe’s Pose Landmark detection to achieve robust 3D pose estimation, leveraging comprehensive data analysis and literature reviews for improved accuracy in mixed reality environments.  
+- Leveraging FAA regulations and airline maintenance manuals for comprehensive solutions, including 3D CAD modeling, safety risk analysis, and cost-benefit evaluation.  
+
 ### Human Activity Inference in Mixed Reality
 **Duration:** Jan 2025 – Present  
-- Performed comprehensive data analysis, literature reviews, and Python-based algorithm design to achieve 3D reconstruction for robust human pose estimation within a mixed reality environment.  
-- Collaborated in weekly lab meetings to refine solutions by integrating EEG, heart rate, and motion data, enhancing human activity inference for immersive experiences.
+- Integrated five camera feeds using Python-based algorithms and MediaPipe’s Pose Landmark detection to achieve robust 3D pose estimation, leveraging comprehensive data analysis and literature reviews for improved accuracy in mixed reality environments.  
+- Collaborated in weekly Friday lab meetings with four team members and three professors, refining solutions by combining 3D pose data with EEG, heart rate, and motion signals to enhance energy and performance predictions, ultimately creating more immersive user experiences.  
 
 ### Dynamic MRI and CT Segmentation
 **Duration:** Jan 2025 – Present
+- Currently exploring a research project integrating MRI and CT segmentation data to enhance organ imaging accuracy and support dynamic analysis.  
+- Leveraged ITK-SNAP for medical image visualization and annotation, enabling detailed volumetric assessments, improved workflow efficiencies, and streamlined data manipulation.  
+- Present progress weekly in lab meetings alongside one professor, five senior researchers, and four co-pilots. These sessions focus on refining segmentation techniques, discussing challenges, and optimizing methodologies to achieve high-quality medical imaging outcomes.  
 
-### Drone Mounted with 3D Surface Scanner for Aircraft Structural Inspections
-**Duration:** Jan 2025 – Present  
-- Participating in the Drone Mounted with 3D Surface Scanner project, integrating a 3D scanner onto a drone to enhance inspection accuracy, accessibility, safety, and maintenance efficiency.  
-- Leveraging FAA regulations and airline maintenance manuals for comprehensive solutions, including 3D CAD modeling, safety risk analysis, and cost-benefit evaluation.
+### Microfluid Control System
+**Duration:** Jan 2025 – Present
+- Analyzing real-time microfluidic videos to assess mixing efficiency, enabling precise droplet control for improved flow conditions.  
+- Generating microfluid simulations in MATLAB to model different flow scenarios, refine droplet behavior, and optimize mixing strategies.  
+- Presenting progress every two weeks to a supervising professor, discussing ongoing results, potential challenges, and future research directions.  
 
 ### NICE with Knowledge Distillation
 **Duration:** Oct – Nov 2024  
