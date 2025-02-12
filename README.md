@@ -65,25 +65,25 @@ My interests also extend to analyzing **3D human pose** data to evaluate perform
 
 ## Experiences
 
-### Teaching Assistance: CS401 Introduction to Advanced Studies I
+### Teaching Assistant: CS401 Introduction to Advanced Studies I
 **Location:** Illinois Institute of Technology  
 **Duration:** Jan 2025 – Present  
 - Delivered comprehensive lab-based instruction on data structures and Java programming.  
 - Oversaw assignment grading and exam proctoring, providing targeted, constructive feedback to drive student improvement.
 
-### Teaching Assistance: CS402 Introduction to Advanced Studies II
+### Teaching Assistant: CS402 Introduction to Advanced Studies II
 **Location:** Illinois Institute of Technology  
 **Duration:** Jan 2025 – Present  
 - Delivered comprehensive lab-based instruction on computer architecture and C/C++ software development.  
 - Oversaw assignment grading and exam proctoring, offering detailed feedback to facilitate student growth.
 
-### Teaching Assistance: Software Programming
+### Teaching Assistant: Software Programming
 **Location:** Seoul National University of Science and Technology  
 **Duration:** Mar – Jun 2023  
 - Graded assignments and supervised exams for the Software Programming course, upholding academic standards and integrity.  
 - Addressed student inquiries about C/C++ with in-depth guidance, fostering a supportive and engaging learning environment.
 
-### Research Assistance
+### Research Assistant
 **Location:** Seoul National University of Science and Technology  
 **Duration:** Jan – Dec 2023  
 - Collaborated with a faculty member and two researchers to develop object detection and incremental learning tasks, leveraging architectures such as ResNet, YOLO, and ViT.  
